@@ -1,0 +1,278 @@
+/*-----------------------------------------------------------------------------
+
+* I RAN THIS THROUGH UNCSS - IG
+
+-	Revolution Slider 5.0 Default Style Settings -
+
+Screen Stylesheet
+
+version:   	5.0.0
+date:      	29/10/15
+author:		themepunch
+email:     	info@themepunch.com
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+
+@font-face {
+  font-family: 'revicons';
+  src: url('../../fonts/revicons/revicons.eot?5510888');
+  src: url('../../fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
+       url('../../fonts/revicons/revicons.woff?5510888') format('woff'),
+       url('../../fonts/revicons/revicons.ttf?5510888') format('truetype'),
+       url('../../fonts/revicons/revicons.svg?5510888#revicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */ /* '' */
+
+							
+
+/******************************
+	-	BASIC STYLES		-
+******************************/
+
+.rev_slider_wrapper{
+	position:relative;
+	z-index: 0;
+}
+
+
+.rev_slider{
+	position:relative;
+	overflow:visible;
+}
+
+.tp-simpleresponsive img,
+.rev_slider img{
+	max-width:none !important;
+	-moz-transition: none;
+	-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+	margin:0px;
+	padding:0px;
+	border-width:0px;
+	border:none;
+}
+
+.rev_slider >ul,
+.tp-revslider-mainul >li,
+.rev_slider >ul >li,
+.rev_slider >ul >li:before,
+.tp-revslider-mainul >li:before,
+.tp-simpleresponsive >ul,
+.tp-simpleresponsive >ul >li,
+.tp-simpleresponsive >ul >li:before,
+.tp-revslider-mainul >li,
+.tp-simpleresponsive >ul >li{
+	list-style:none !important;
+	position:absolute;	
+	margin:0px !important;
+	padding:0px !important;
+	overflow-x: visible;
+	overflow-y: visible;
+	list-style-type: none !important;
+	background-image:none;
+	background-position:0px 0px;
+	text-indent: 0em;
+	top:0px;left:0px;
+}
+
+
+.tp-revslider-mainul >li,
+.rev_slider >ul >li,
+.rev_slider >ul >li:before,
+.tp-revslider-mainul >li:before,
+.tp-simpleresponsive >ul >li,
+.tp-simpleresponsive >ul >li:before,
+.tp-revslider-mainul >li,
+.tp-simpleresponsive >ul >li { 
+	visibility:hidden; 
+}
+
+.tp-revslider-slidesli,
+.tp-revslider-mainul	{	
+	padding:0 !important; 
+	margin:0 !important; 
+	list-style:none !important;
+}
+
+.rev_slider li.tp-revslider-slidesli {
+    position: absolute !important;
+}
+
+.rev_slider .tp-caption 	{ 
+	position:relative;  
+	visibility:hidden; 
+	white-space: nowrap;
+	display: block;
+}
+
+
+.rev_slider .tp-mask-wrap .tp-caption,
+.rev_slider .tp-mask-wrap *:last-child{
+	margin-bottom:0;
+
+}
+
+	
+/* CAROUSEL FUNCTIONS */
+
+/* ADDED FOR SLIDELINK MANAGEMENT */
+.tp-caption {
+	z-index:1
+}
+
+
+.tp-caption {	
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-o-user-select: none;	
+	position:absolute;
+	-webkit-font-smoothing: antialiased !important;
+}
+
+
+
+
+
+
+/**********************************************
+	-	FULLSCREEN AND FULLWIDHT CONTAINERS	-
+**********************************************/
+.rev_slider_wrapper	{	width:100%;}
+
+
+
+/*********************************
+	-	SPECIAL TP CAPTIONS -
+**********************************/		
+
+
+/***********************************************
+	-	SPECIAL ALTERNATIVE IMAGE SETTINGS	-
+***********************************************/
+
+
+/******************************
+	-	IE8 HACKS	-
+*******************************/
+
+
+/********************************
+	-	FULLSCREEN VIDEO	-
+*********************************/
+
+
+/********************************
+	-	DOTTED OVERLAYS	-
+*********************************/
+
+
+/******************************
+	-	SHADOWS		- 
+******************************/
+
+/******************************
+	-	BUTTONS	-
+*******************************/
+
+	
+/*	BUTTON COLORS	*/
+
+
+
+/* TP BUTTONS DESKTOP SIZE */
+
+/* REV BUTTONS MEDIUM */
+
+
+/* REV BUTTONS SMALL */
+
+
+/* ROUNDING OPTIONS */	
+
+
+/* BURGER BUTTON */
+
+
+/* SCROLL DOWN BUTTON */
+
+
+
+
+/************************************
+-	TP BANNER TIMER		-
+*************************************/
+.tp-bannertimer								{	visibility: hidden; width:100%; height:5px; /*background:url(../assets/timer.png);*/ background: #fff; background: rgba(0,0,0,0.15); position:absolute; z-index:200; top:0px}
+
+
+/*********************************************
+-	BASIC SETTINGS FOR THE BANNER	-
+***********************************************/
+
+ .tp-simpleresponsive img {
+	-moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
+
+.tp-caption img {
+	background: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+	zoom: 1;
+}
+
+
+
+/*  CAPTION SLIDELINK   **/
+
+
+
+/*********************************************
+-	WOOCOMMERCE STYLES	-
+***********************************************/
+
+
+/******************************
+	-	LOADER FORMS	-
+********************************/
+
+.tp-loader 	{
+	top:50%; left:50%;
+	z-index:10000;
+	position:absolute;
+}
+
+
+
+/***********************************************
+	-  STANDARD NAVIGATION SETTINGS 
+***********************************************/
+
+.tp-bullets						{	position:absolute; display:block; z-index:1000; top:0px; left:0px;}
+
+.tp-bullet 						{	width:15px;height:15px; position:absolute; background:#fff; background:rgba(255,255,255,0.3); cursor: pointer;}
+.tp-bullet.selected,
+.tp-bullet:hover				{	background:#fff;}
+
+.tp-bannertimer					{	background:#000; background:rgba(0,0,0,0.15); height:5px;}
+
+
+.tparrows						{	cursor:pointer; background:#000; background:rgba(0,0,0,0.5); width:40px;height:40px;position:absolute; display:block; z-index:1000; }
+.tparrows:hover 				{	background:#000;}
+.tparrows:before				{	font-family: "revicons"; font-size:15px; color:#fff; display:block; line-height: 40px; text-align: center;}
+.tparrows.tp-leftarrow:before	{	content: '\e824'; }
+.tparrows.tp-rightarrow:before	{	content: '\e825'; }
+
+
+/***************************
+	- 3D SHADOW MODE -
+***************************/
+
+/*******************
+	- DEBUG MODE -
+*******************/
