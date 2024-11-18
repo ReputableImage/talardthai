@@ -1,0 +1,232 @@
+/*
+
+* I RAN THIS THROUGH UN-CSS - IG
+
+
+Item name: Menuzord - Responsive Megamenu
+Author: marcoarib - marco.arib@gmail.com
+License: http://codecanyon.net/licenses
+*/
+
+/*
+	CONTENTS:
+	
+	 1 - MENU CONTAINER
+		- Scrollable menu
+	 2 - BRAND
+	 3 - MENU
+		- Right alignment
+		- Menu items
+		- Active/hover state
+	 4 - DROPDOWN
+		- Dropdown items
+		- Hover state
+		- Dropdown left alignment
+	 5 - DROPDOWN/MEGAMENU INDICATORS
+	 6 - MEGAMENU
+	 7 - MEGAMENU WIDTHS
+		- Half width
+		- Quarter width
+	 8 - GRID SYSTEM
+	 9 - SHOW/HIDE BUTTON (MOBILE MODE)
+		- Icon
+	10 - ICONS (parent menu items)
+	11 - SEARCH FIELD
+		- Form
+		- Input
+	12 - VERTICAL TABS
+	13 - COLOR SCHEMES
+	14 - MOBILE MODE (RESPONSIVE MODE)
+		- Menu container
+		- Brand
+		- Show/hide button
+		- Menu
+		- Dropdown
+		- Dropdown items
+		- Dropdown/megamenu indicators
+		- Megamenu
+		- Search field
+*/
+
+/* FONT
+======================================*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700);
+
+
+/* 1 - MENU CONTAINER
+======================================*/
+.menuzord,
+.menuzord *{
+	font-family: inherit;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box; 
+	-webkit-box-sizing:border-box;
+}
+.menuzord{
+	width: 100%;
+	padding: 0 30px;
+	float: left;
+	position: relative;
+	background: #fff;
+}
+.menuzord a{
+	-o-transition: color .3s linear, background .3s linear;
+	-moz-transition: color .3s linear, background .3s linear;
+	-webkit-transition: color .3s linear, background .3s linear;
+	transition: color .3s linear, background .3s linear;
+}
+/* scrollable menu */
+.menuzord-menu.scrollable > .scrollable-fix{
+	display: none;
+}
+
+/* 2 - BRAND
+======================================*/
+
+/* 3 - MENU
+======================================*/
+.menuzord-menu{
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+}
+/* Right alignment */
+/* Menu items */
+.menuzord-menu > li{
+	display: inline-block;
+	float: left;
+}
+.menuzord-menu > li > a{
+	padding: 26px 16px;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 600;
+	color: #888;
+	outline: 0;
+	line-height: 1.42857143;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: transparent;
+}
+/* Active/hover state (Menu items) */
+.menuzord-menu > li:hover > a{
+	color: #333;
+}
+
+/* 4 - DROPDOWN
+======================================*/
+/* Dropdown items */
+/* Hover state (dropdown items) */
+
+/* Dropdown left alignment */
+
+/* 5 - DROPDOWN/MEGAMENU INDICATORS
+======================================*/
+
+/* 6 - MEGAMENU
+======================================*/
+
+/* 7 - MEGAMENU WIDTHS
+======================================*/
+/* Half width */
+/* Quarter width */
+
+/* 8 - GRID SYSTEM
+======================================*/
+
+/* 9 - SHOW/HIDE BUTTON (MOBILE MODE)
+======================================*/
+.menuzord .showhide{
+	width: 60px;
+	height: 46px;
+	padding: 13px 0 0;
+	display: none;
+	float: right;
+	text-decoration: none;
+	outline: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: transparent;
+}
+/* Show/hide button icon */
+
+/* 10 - ICONS (parent menu items)
+======================================*/
+
+/* 11 - SEARCH FIELD
+======================================*/
+/* Form */
+/* Input */
+
+/* 12 - VERTICAL TABS
+======================================*/
+
+/* 13 - COLOR SCHEMES
+======================================*/
+/* blue */
+/* green */
+/* red */
+/* orange */
+/* yellow */
+/* purple */
+/* pink */
+
+/* 14 - MOBILE MODE (RESPONSIVE MODE)
+======================================*/
+@media (max-width: 991px){
+	/* Responsive menu container */
+	.menuzord-responsive.menuzord{
+		padding: 0;
+	}
+	
+	/* Brand */
+	
+	/* Show/hide button */
+	.menuzord-responsive .showhide{
+		margin: 0;
+	}
+	
+	/* Menu */
+	.menuzord-responsive .menuzord-menu{
+		width: 100%;
+		float: left !important;
+	}
+	/* scrollable menu*/
+	.menuzord-responsive .menuzord-menu.scrollable{
+		overflow-y: auto;
+		-webkit-overflow-scrolling: touch;
+	}
+	.menuzord-responsive .menuzord-menu.scrollable > .scrollable-fix{
+		display: block;
+	}
+	
+	/* Menu items */
+	.menuzord-responsive .menuzord-menu > li{
+		width: 100%;
+		display: block;
+		position: relative;
+	}
+	.menuzord-responsive .menuzord-menu > li > a{
+		width: 100%;
+		padding: 12px 20px;
+		display: block;
+		line-height: 21px;
+		border-bottom: solid 1px #f0f0f0;
+	}
+	.menuzord-responsive .menuzord-menu > li:first-child > a{
+		border-top: solid 1px #f0f0f0;
+	}
+	
+	/* Dropdown */
+	
+	/* Dropdown items */
+	
+	/* Dropdown/megamenu indicators */
+	
+	/* Megamenu */
+	
+	/* Search field */
+	
+	/* Tabs */
+}
+
