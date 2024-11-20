@@ -1,0 +1,1155 @@
+		<div class="main_page">
+
+
+			<!-- Header *******************************  -->
+			<header>
+				<div class="bottom_header">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-4 col-sm-12">
+								<div class="search-box">
+									<form action="#" class="clearfix">
+										<input type="text" placeholder="Search...">
+										<button><i class="fa fa-search"></i></button>
+									</form>
+								</div>
+							</div>
+				
+							<!-- Centered Logo Column -->
+							<div class="col-md-4 col-sm-12 text-center mx-auto">
+								<div class="logo-area">
+									<a href="index.html" class="logo"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/logo/Talard%20Thai%20Asian%20Market%20Logo%20with%20red%20English%20letters.png" alt="LOGO"></a>
+								</div>
+							</div>
+				
+							<div class="col-md-4 col-sm-12 d-flex justify-content-end phone-and-address-on-header">
+								<div class="d-flex">
+									<ul class="list catagories">
+										<li><a class="phone-and-address-on-header-text-color" href="#"><i class="fa fa-phone phone-and-address-on-header-icon-color"></i>(773) 942 6566</a></li>
+										<li><a class="phone-and-address-on-header-text-color" href="#"><i class="fa fa-home phone-and-address-on-header-icon-color"></i>3553 N Broadway, Chicago, IL 60640</a></li>
+									</ul>
+								</div>
+							</div>
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				<!-- End of .bottom_header -->
+			</header>
+
+
+
+
+
+			<!-- Menu ******************************* -->
+			<div class="theme_menu color1_bg">
+				<div class="container">
+					<nav class="menuzord pull-left" id="main_menu">
+					   <ul class="menuzord-menu">
+					      <li class="current_page"><a href="index.html">Home</a></li>
+					      <li><a href="#">Shop Online</a></li>
+					      <li><a href="#">About Us</a>
+					      </li>
+					      <li><a href="#">Departments</a>
+					      </li>
+					      <li><a href="#">Weekly Specials</a>
+					      </li>
+					      
+					      <li><a href="contact.html">Contact us</a></li>
+					   </ul> <!-- End of .menuzord-menu -->
+				   </nav> <!-- End of #main_menu -->
+
+
+				   <!-- ******* Cart And Search Option ******** -->
+				   <div class="nav_side_content pull-right">
+				   		<ul class="icon_header">
+							<li class="border_round tran3s"><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li class="border_round tran3s"><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li class="border_round tran3s"><a href="#"><i class="fa fa-google"></i></a></li>
+							<li class="border_round tran3s"><a href="#"><i class="fa fa-envelope"></i></a></li>
+						</ul>
+				   </div> <!-- End of .nav_side_content -->
+				     
+			   </div> <!-- End of .conatiner -->
+			</div> <!-- End of .theme_menu -->
+
+
+
+
+			<!-- Banner (MAIN HERO SECTION) ____________________________________ -->
+	        <div id="banner">
+	        	<div class="rev_slider_wrapper">
+					<!-- START REVOLUTION SLIDER 5.0 auto mode -->
+						<div id="main_slider" class="rev_slider" data-version="5.0">
+							<ul>
+								
+								<!-- SLIDE1  -->
+								<li data-index='rs-377' data-transition='curtain-1' data-slotamount='1' data-easein='default' data-easeout='default' data-masterspeed='default' data-thumb='https://d14tal8bchn59o.cloudfront.net/vZzUzpIyqDN1Yuf5HdGmhaKtThQhAgT0o1RaPP0UIRM/w:1920/plain/https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/93546/photos/21879735/Thai_Cafe_in_Chicago_original.png' data-rotate='0' data-saveperformance='off' data-title='Business Solutions' data-description='' >
+									<!-- MAIN IMAGE -->
+									<img src="https://d14tal8bchn59o.cloudfront.net/vZzUzpIyqDN1Yuf5HdGmhaKtThQhAgT0o1RaPP0UIRM/w:1920/plain/https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/93546/photos/21879735/Thai_Cafe_in_Chicago_original.png"  alt="image"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+									<!-- LAYERS -->
+
+									<!-- LAYER NR. 1 -->
+									<div class="tp-caption tp-resizeme rs-parallaxlevel-3" 
+										data-x="['center','center','center','center']" data-hoffset="['0','0','35','0']" 
+										data-y="['middle','middle','middle','middle']" data-voffset="['-120','-120','-120','-120']"
+										data-width="none"
+										data-height="none"
+										data-transform_idle="o:1;"
+										data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+										data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+										data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+										data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+										data-start="1000"
+										data-splitout="none" 
+										data-responsive_offset="on" 
+										data-elementdelay="0.05" 
+										style="z-index: 5;">
+										<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/authentic%20and%20fresh%20asian%20market.png" alt="">
+									</div>
+
+									<!-- LAYER NR. 2 -->
+									<div class="tp-caption tp-resizeme rs-parallaxlevel-3" 
+										data-x="['center','center','center','center']" data-hoffset="['0','0','35','0']" 
+										data-y="['middle','middle','middle','middle']" data-voffset="['50','50','50','50']"
+										data-width="none"
+										data-height="none"
+										data-transform_idle="o:1;"
+										data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+										data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+										data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+										data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+										data-start="1500"
+										data-splitout="none" 
+										data-responsive_offset="on" 
+										data-elementdelay="0.05" 
+										style="z-index: 5;">
+										<h1>Asian Market</h1>
+									</div>
+
+
+									<!-- LAYER NR. 3 -->
+									<div class="tp-caption tp-resizeme rs-parallaxlevel-2" 
+										data-x="['center','center','center','center']" data-hoffset="['0','0','35','0']" 
+										data-y="['middle','middle','middle','middle']" data-voffset="['110','110','110','110']" 
+										data-width="none"
+										data-height="none"
+										data-whitespace="nowrap"
+										data-transform_idle="o:1;"
+							 
+										data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+										data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+										data-mask_in="x:0px;y:[100%];" 
+										data-mask_out="x:inherit;y:inherit;" 
+										data-start="2000" 
+										data-splitin="none" 
+										data-splitout="none" 
+										data-responsive_offset="on" 
+										style="z-index: 6; white-space: nowrap;">
+										<h5 class="cp-title">Grocery Store &amp; Thai Cafe </h5>
+									</div>
+
+									<!-- LAYER NR. 4 -->
+									<div class="tp-caption tp-resizeme rs-parallaxlevel-2" 
+										data-x="['center','center','center','center']" data-hoffset="['0','0','35','0']" 
+										data-y="['middle','middle','middle','middle']" data-voffset="['160','160','160','160']" 
+										data-width="none"
+										data-height="none"
+										data-whitespace="nowrap"
+										data-transform_idle="o:1;"
+							 
+										data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+										data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+										data-mask_in="x:0px;y:[100%];" 
+										data-mask_out="x:inherit;y:inherit;" 
+										data-start="2500" 
+										data-splitin="none" 
+										data-splitout="none" 
+										data-responsive_offset="on" 
+										style="z-index: 6; white-space: nowrap;">
+										<h5 class="cp-title-2">In the heart of Chicago, IL</h5>
+									</div>
+
+
+
+			
+								
+								</li>
+
+
+
+								<!-- SLIDE2  -->
+								<li data-index="rs-18" data-transition="zoomin" data-slotamount="7"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="https://d14tal8bchn59o.cloudfront.net/rbUx2Y2Q-5j7qpwjBHWdv4F17qR0yyrCJaVmyDmMdIE/w:1920/plain/https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/93546/photos/21879745/Fresh_fruits_and_vegetables_uptown_chicago_original.png"  data-rotate="0"  data-saveperformance="off"  data-title="Successful Careers" data-description="">
+									<!-- MAIN IMAGE -->
+									<img src="https://d14tal8bchn59o.cloudfront.net/rbUx2Y2Q-5j7qpwjBHWdv4F17qR0yyrCJaVmyDmMdIE/w:1920/plain/https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/93546/photos/21879745/Fresh_fruits_and_vegetables_uptown_chicago_original.png"  alt=""  data-bgposition="top center" class="rev-slidebg" data-no-retina>
+									<!-- LAYERS -->
+									<div class="tp-caption tp-resizeme" 
+										data-x="['center','center','center','center']" data-hoffset="['80','80','80','80']" 
+										data-y="['middle','middle','middle','middle']" data-voffset="['-160','-160','-160','-160']"
+										data-width="none"
+										data-height="none"
+										data-transform_idle="o:1;"
+										data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+										data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+										data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+										data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+										data-start="1000"
+										data-splitout="none" 
+										data-responsive_offset="on" 
+										data-elementdelay="0.05" 
+										style="z-index: 5;">
+										<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/local%20grocery%20store%20in%20chicago.png" alt="">
+									</div>
+									<div class="tp-caption tp-resizeme banner-caption-box"
+					                    data-x="right" data-hoffset="0" 
+					                    data-y="top" data-voffset="260"
+					                    data-transform_idle="o:1;"         
+					                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+					                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+					                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+					                    data-splitin="none" 
+					                    data-splitout="none"                         
+					                    data-start="1000">
+					                    <div class="banner-caption-h1">TUESDAYS <br>PRODUCE IS 20% Off</div>
+					                    <div class="banner-caption-p"><p>Visit us and check out our fresh selection of fruits and vegetables. <br>Shop local!</p></div>
+					                    <a href="#" class="thm-btn contuct-us">Our Address</a>
+					                </div>
+								</li>
+
+
+
+							
+								<!-- SLIDE3  -->
+								<li data-index="rs-20" data-transition="zoomin" data-slotamount="7"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/parallax/traditional-thai-noodles-pad-thai-2024-10-18-06-45-22-utc.png"  data-rotate="0"  data-saveperformance="off"  data-title="Your Success" data-description="">
+									<!-- MAIN IMAGE -->
+									<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/parallax/traditional-thai-noodles-pad-thai-2024-10-18-06-45-22-utc.png"  alt=""  data-bgposition="top center"  class="rev-slidebg" data-no-retina>
+									<!-- LAYERS -->
+									
+
+									<!-- LAYER NR. 1 -->
+									<div class="tp-caption tp-resizeme" 
+										data-x="['center','center','center','center']" data-hoffset="['0','0','35','0']" 
+										data-y="['middle','middle','middle','middle']" data-voffset="['-120','-120','-120','-120']"
+										data-width="none"
+										data-height="none"
+										data-transform_idle="o:1;"
+										data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+										data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+										data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+										data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+										data-start="1000"
+										data-splitout="none" 
+										data-responsive_offset="on" 
+										data-elementdelay="0.05" 
+										style="z-index: 5;">
+										<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/right%20in%20the%20heart%20of%20chicago.png" alt="">
+									</div>
+
+
+									<!-- LAYER NR. 1 -->
+									<div class="tp-caption tp-resizeme text-center"
+					                    data-x="center" data-hoffset="0" 
+					                    data-y="center" data-voffset="-40"
+					                    data-transform_idle="o:1;"         
+					                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+					                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+					                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+					                    data-splitin="none" 
+					                    data-splitout="none"                         
+					                    data-start="500">
+					                    <div class="banner-caption-h2">Talard Thai Asian Market</div>                    
+					                </div>
+					                <div class="tp-caption tp-resizeme text-center"
+					                    data-x="center" data-hoffset="0" 
+					                    data-y="top" data-voffset="360"
+					                    data-transform_idle="o:1;"                         
+					                    data-transform_in="x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+					                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+					                    data-mask_in="x:[-100%];y:0;s:inherit;e:inherit;" 
+					                    data-splitin="none" 
+					                    data-splitout="none" 
+					                    data-responsive_offset="on"                         
+					                    data-start="1400">  
+					                    <div class="banner-caption-h3">Come experience Asia</div>                  
+					                    <div class="banner-caption-p"><p>3553 N Broadway, Chicago, IL 60640</p></div>                  
+					                    <a href="#" class="color1-bg contuct-us">Contact Us</a>
+					                </div>
+								</li>
+							</ul>	
+						</div>
+					</div><!-- END REVOLUTION SLIDER -->
+	        </div> <!-- End of #banner -->
+
+
+
+
+			<!-- about Section ************************** -->
+			<div class="about_section">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12t">
+							<div class="item wow fadeInLef" style="background-image: url(https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/placeholder1.png);">
+								<div class="offer-sec">
+									<div class="inner-title">Non-Perishables<div class="offer"><span>20% <br>OFF</span></div></div>
+								</div>
+								<div class="content on-yellow-background">
+									<h3>On Fridays</h3>
+									<p>Come shop with our best deals <br>you won't find anywhere else. <br>We have something for everyone!</p>
+									<div class="link-btn"><a href="#" class="tran3s">More Products<span class="fa fa-sort-desc"></span></a></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12t">
+							<div class="item wow fadeInRight" style="background-image: url(https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/placeholder2.png);">
+								<div class="offer-sec">
+									<div class="inner-title">Take Out Mondays<div class="offer"><span>10% <br>OFF</span></div></div>
+								</div>
+								<div class="content">
+									<h3>Thai Food</h3>
+									<p>Our authentic Thai Food <br> is off 10% every Monday! <br> Come have a taste!</p>
+									<div class="link-btn"><a href="#" class="tran3s">More Products<span class="fa fa-sort-desc"></span></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> <!-- End of .container -->
+			</div> <!-- End of .welcome_section -->
+<!--feature Section-->
+<section class="featured-product">
+	<div class="container">
+
+		<div class="theme_title center">
+			<h3>FEATURED PRODUCTS</h3>
+		</div>
+
+		<!--Filter-->
+		<div class="filters text-center">
+			<ul class="filter-tabs filter-btns clearfix">
+				<li class="filter active" data-role="button" data-filter="all"><span class="txt">All Products</span></li>
+				<li class="filter" data-role="button" data-filter=".fruits"><span class="txt">fruits</span></li>
+				<li class="filter" data-role="button" data-filter=".vegetables"><span class="txt">vegetables</span></li>
+				<li class="filter" data-role="button" data-filter=".beauty"><span class="txt">beauty</span></li>
+				<li class="filter" data-role="button" data-filter=".others"><span class="txt">others</span></li>
+			</ul>
+		</div>
+
+		<div class="row filter-list clearfix" id="MixItUp717B05">
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all beauty others" style="display: inline-block;">
+				<div class="inner-box">
+					<div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/1%20(1).png" alt=""><div class="product-model new">New</div></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all others" style="display: inline-block;">
+				<div class="inner-box">
+					<div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/2%20(1).png" alt=""></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits vegetables beauty" style="display: inline-block;">
+				<div class="inner-box">
+					<div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/3%20(1).png" alt=""><div class="product-model hot">Hot</div></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all beauty others" style="display: inline-block;">
+				<div class="inner-box">
+					<div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/4%20(1).png" alt=""></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits others" style="display: inline-block;">
+				<div class="inner-box">
+					<div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/5%20(1).png" alt=""></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits vegetables beauty others" style="display: inline-block;">
+				<div class="inner-box">
+					<div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/6%20(1).png" alt=""><div class="product-model new">New</div></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits others" style="display: inline-block;">
+				<div class="inner-box">
+				   <div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/7%20(1).png" alt=""></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--Default Item-->
+			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits vegetables beauty others" style="display: inline-block;">
+				<div class="inner-box">
+				   <div class="single-item center">
+						<figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/shop/8%20(1).png" alt=""><div class="product-model hot">Hot</div></figure>
+						<div class="content">
+							<h3><a href="shop-single.html">Turmeric Powder</a></h3>
+							<div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+							<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+						</div>
+						<div class="overlay-box">
+							<div class="inner">
+								<div class="top-content">
+								</div>
+								<div class="bottom-content">
+									<h4><a href="#">It Contains:</a></h4>
+									<p>35% of organic raisins 55% of oats and 10% of butter. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+		
+</section><!-- End of section -->
+
+
+			<!-- Request Quote ******************************* -->
+			<section class="why_choose_us">
+				<div class="theme_title_bg" style="background-image: url(https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/vecteezy_seamless-pattern-vegetables-berries-and-fruits-vector_11539493.png);">
+					<div class="theme_title center">
+						<div class="container">
+							<h2>Why Choose Us</h2>
+							<p>Shop, savor, and experience the best of Asia.<br>From fresh ingredients to authentic Thai cuisine, we have something for everyone.</p>
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="container">
+					 <!-- End of .theme_title_center -->
+
+					<div class="row">
+
+						<!-- ______________ Item _____________ -->
+						<div class="col-md-6 col-sm-12 col-xs-12">
+							<div class="choose_us_item tran3s">
+								<div class="icon p_color_bg border_round float_left">
+									<div class="custom-icon custom-icon-1"></div></div> <!-- End of .icon -->
+								<div class="text float_left">
+									<h5 class="tran3s">Authentic Ingredients</h5>
+									<p class="tran3s">We source fresh, traditional ingredients to bring the true flavors of Asia to your home cooking.</p>
+								</div> <!-- End of .text -->
+								<div class="clear_fix"></div>
+							</div> <!-- End of .choose_us_item -->
+						</div> <!-- End of .col -->
+
+						<!-- ______________ Item _____________ -->
+						<div class="col-md-6 col-sm-12 col-xs-12">
+							<div class="choose_us_item tran3s">
+								<div class="icon p_color_bg border_round float_left">
+									<div class="custom-icon custom-icon-2"></div></div> <!-- End of .icon -->
+								<div class="text float_left">
+									<h5 class="tran3s">Taste of Thailand</h5>
+									<p class="tran3s">Enjoy freshly prepared Thai dishes in our cozy café, made with the same ingredients we sell.</p>
+								</div> <!-- End of .text -->
+								<div class="clear_fix"></div>
+							</div> <!-- End of .choose_us_item -->
+						</div> <!-- End of .col -->
+
+						<!-- ______________ Item _____________ -->
+						<div class="col-md-6 col-sm-12 col-xs-12">
+							<div class="choose_us_item tran3s">
+								<div class="icon p_color_bg border_round float_left">
+									<div class="custom-icon custom-icon-3"></div></div> <!-- End of .icon -->
+								<div class="text float_left">
+									<h5 class="tran3s">Variety and Convenience</h5>
+									<p class="tran3s">Shop a wide selection of pantry staples, specialty items, and ready-to-eat meals in one place.</p>
+								</div> <!-- End of .text -->
+								<div class="clear_fix"></div>
+							</div> <!-- End of .choose_us_item -->
+						</div> <!-- End of .col -->
+
+						<!-- ______________ Item _____________ -->
+						<div class="col-md-6 col-sm-12 col-xs-12">
+							<div class="choose_us_item tran3s">
+								<div class="icon p_color_bg border_round float_left">
+									<div class="custom-icon custom-icon-4"></div></div> <!-- End of .icon -->
+								<div class="text float_left">
+									<h5 class="tran3s">Shop Local!</h5>
+									<p class="tran3s">We’re dedicated to creating a warm, welcoming space for every shopper and diner.</p>
+								</div> <!-- End of .text -->
+								<div class="clear_fix"></div>
+							</div> <!-- End of .choose_us_item -->
+						</div> <!-- End of .col -->
+					</div>
+				</div> <!-- End of .container -->
+			</section> <!-- End of why choose us -->
+
+
+
+			<!--gallery Section-->
+		    <section class="gallery">
+		        <div class="container">
+
+		            <div class="theme_title">
+		                <h3>Top Selling Products</h3>
+		            </div>
+
+
+		            <div class="row filter-list clearfix">
+			            
+			            <!--Default Item-->
+			            <div class="col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all beauty others" style="display: inline-block;">
+			                <div class="inner-box">
+			                    <div class="single-item center">
+			                        <figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/products/product%201.png" alt=""></figure>
+			                        <div class="overlay-box">
+			                        	<div class="inner">
+				                        	<div class="image-view">
+				                                <div class="icon-holder">
+				                                    <a href="#" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><span class="icon-magnifier"></span></a>
+				                                </div>
+				                            </div>
+				                        	<div class="bottom-content">
+				                        		<h4><a href="#">Coffee Break Cake</a></h4>
+				                        		<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+				                        	</div>
+			                        	</div>
+			                        </div>
+				                </div>
+			                </div>
+			            </div>
+			            
+			            <!--Default Item-->
+			            <div class="col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all others" style="display: inline-block;">
+			                <div class="inner-box">
+			                    <div class="single-item center">
+			                        <figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/products/product2.png" alt=""></figure>
+			                        <div class="overlay-box">
+			                        	<div class="inner">
+				                        	<div class="image-view">
+				                                <div class="icon-holder">
+				                                    <a href="#" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><span class="icon-magnifier"></span></a>
+				                                </div>
+				                            </div>
+				                        	<div class="bottom-content">
+				                        		<h4><a href="#">Coffee Break Cake</a></h4>
+				                        		<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+				                        	</div>
+			                        	</div>
+			                        </div>
+				                </div>
+			                </div>
+			            </div>
+			            
+			            <!--Default Item-->
+			            <div class="col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits vegetables beauty" style="display: inline-block;">
+			                <div class="inner-box">
+			                    <div class="single-item center">
+			                        <figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/products/product%203.png" alt=""></figure>
+			                        <div class="overlay-box">
+			                        	<div class="inner">
+				                        	<div class="image-view">
+				                                <div class="icon-holder">
+				                                    <a href="#" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><span class="icon-magnifier"></span></a>
+				                                </div>
+				                            </div>
+				                        	<div class="bottom-content">
+				                        		<h4><a href="#">Coffee Break Cake</a></h4>
+				                        		<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+				                        	</div>
+			                        	</div>
+			                        </div>
+				                </div>
+			                </div>
+			            </div>
+			            
+			            <!--Default Item-->
+			            <div class="col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all beauty others" style="display: inline-block;">
+			                <div class="inner-box">
+			                    <div class="single-item center">
+			                        <figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/products/product%204.png" alt=""></figure>
+			                        <div class="overlay-box">
+			                        	<div class="inner">
+				                        	<div class="image-view">
+				                                <div class="icon-holder">
+				                                    <a href="#" class="fancybox"><span class="icon-magnifier"></span></a>
+				                                </div>
+				                            </div>
+				                        	<div class="bottom-content">
+				                        		<h4><a href="#">Coffee Break Cake</a></h4>
+				                        		<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+				                        	</div>
+			                        	</div>
+			                        </div>
+				                </div>
+			                </div>
+			            </div>
+			            
+			            <!--Default Item-->
+			            <div class="col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits others" style="display: inline-block;">
+			                <div class="inner-box">
+			                    <div class="single-item center">
+			                        <figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/products/product%205.png" alt=""></figure>
+			                        <div class="overlay-box">
+			                        	<div class="inner">
+				                        	<div class="image-view">
+				                                <div class="icon-holder">
+				                                    <a href="#" class="fancybox"><span class="icon-magnifier"></span></a>
+				                                </div>
+				                            </div>
+				                        	<div class="bottom-content">
+				                        		<h4><a href="#">Coffee Break Cake</a></h4>
+				                        		<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+				                        	</div>
+			                        	</div>
+			                        </div>
+				                </div>
+			                </div>
+			            </div>
+			            
+			            <!--Default Item-->
+			            <div class="col-md-4 col-sm-6 col-xs-12 mix mix_all default-item all fruits vegetables beauty others" style="display: inline-block;">
+			                <div class="inner-box">
+			                    <div class="single-item center">
+			                        <figure class="image-box"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/products/product%206.png" alt=""></figure>
+			                        <div class="overlay-box">
+			                        	<div class="inner">
+				                        	<div class="image-view">
+				                                <div class="icon-holder">
+				                                    <a href="#" class="fancybox"><span class="icon-magnifier"></span></a>
+				                                </div>
+				                            </div>
+				                        	<div class="bottom-content">
+				                        		<h4><a href="#">Coffee Break Cake</a></h4>
+				                        		<div class="price">$12.99 <span class="prev-rate">$14.99</span></div>
+				                        	</div>
+			                        	</div>
+			                        </div>
+				                </div>
+			                </div>
+			            </div>
+			            
+			            
+			        </div>
+		        </div>
+			        
+		    </section><!-- End of section -->
+			<!-- Our Service ****************************** -->
+			<div class="our_farmer">
+				<div class="container">
+					<div class="theme_title center">
+						<h2>our farmers</h2>
+					</div>
+					
+					<div class="row">
+						<div class="service_slider owl-carousel owl-theme">
+							
+								<div class="item center">
+									<div class="img_holder">
+										<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/team/an-asian-female-farmer-in-thailand-prepares-grass-2023-11-27-05-10-34-utc.png" alt="images">
+										<div class="overlay tran3s">
+											<div class="inner-box">
+												<ul>
+				                        			<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+				                        			<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+				                        			<li><a href="#"><span class="fa fa-google"></span></a></li>
+				                        		</ul>
+											</div>
+				                        </div>
+									</div>
+									<div class="text">
+										<h4>Rebecca Garzany</h4>
+										<a href="turnaround.html"><h5>Pastoral Farmer</h5></a>
+										<p> Praising pain was born and I will give you a <br>complete account of the system.</p>
+									</div>
+								</div> <!-- End of .item -->
+
+								<div class="item center">
+									<div class="img_holder">
+										<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/team/portrait-of-a-thai-rice-farmer-holding-a-scythe-an-2023-11-27-05-33-34-utc.png" alt="images">
+										<div class="overlay tran3s">
+											<div class="inner-box">
+												<ul>
+				                        			<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+				                        			<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+				                        			<li><a href="#"><span class="fa fa-google"></span></a></li>
+				                        		</ul>
+											</div>
+										</div>
+									</div>
+									<div class="text">
+										<h4>George William</h4>
+										<a href="turnaround.html"><h5>Arable Farmer</h5></a>
+										<p> Praising pain was born and I will give you a <br>complete account of the system.</p>
+									</div>
+								</div> <!-- End of .item -->
+
+								<div class="item center">
+									<div class="img_holder">
+										<img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/team/asian-farmers-happiness-holding-fresh-organic-vege-2023-11-27-05-12-53-utc.png" alt="images">
+										<div class="overlay tran3s">
+											<div class="inner-box">
+												<ul>
+				                        			<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+				                        			<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+				                        			<li><a href="#"><span class="fa fa-google"></span></a></li>
+				                        		</ul>
+											</div>
+												
+										</div>
+									</div>
+									<div class="text">
+										<h4>John Fernando</h4>
+										<a href="turnaround.html"><h5>Farm Manager</h5></a>
+										<p> Praising pain was born and I will give you a <br>complete account of the system.</p>
+									</div>
+								</div> <!-- End of .item -->
+
+
+						</div> <!-- End of .service_slider -->
+					</div>
+				</div>
+			</div> <!-- End of .our_service -->
+
+
+
+		    <!--Testimonials Section-->
+		    <section class="testimonials-section" style="background-image:url(https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/parallax/traditional-thai-noodles-pad-thai-2024-10-18-06-45-22-utc.png);">
+		        <div class="container">
+		            <div class="theme_title">
+						<h2>Testimonials</h2>
+					</div>
+		            <div class="testimonials-carousel">
+		            
+		            	<!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">Talard Thai Asian Market is a hidden gem tucked behind the market store, offering an excellent selection of authentic Thai dishes at unbeatable prices. </div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE1.jpg" alt=""></div>
+		                                <div class="author">MP</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		                <!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">Love the hot dishes and Thai iced tea provided inside. <br>Some are a bit spicy for us but still very delicious. <br>We go there almost every week!!										</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE2.jpg" alt=""></div>
+		                                <div class="author">Spify F</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		                <!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">A great place to buy Thai groceries as well as enjoy Thai food in kitchen at the back of the store.
+											
+											They sell thai snacks, drinks, thai bananas, thai frozen foods etc.
+											
+											Great thai food at reasonable price</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE5.jpg" alt=""></div>
+		                                <div class="author">Nitin B</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		            	<!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">Good tasty Thai food and not expensive. They have some seats inside for eating food there. Plus, we can grab some Thai snacks home later. <br>Great supermarket!										</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE6.jpg" alt=""></div>
+		                                <div class="author">Klarin</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		                <!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">The hot bar at the back of the supermarket is worth making the trek for! The prices are really affordable. If you’re looking for great Thai food with cheap prices this is your spot!
+										</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE3.jpg" alt=""></div>
+		                                <div class="author">Melissa S</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		                <!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">My wife is Thai and she's introduced me to some Thai foods that I enjoy eating - we come here at least once a week...try the papaya salad, they make it fresh every couple of days
+										</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE4.jpg" alt=""></div>
+		                                <div class="author">Ted J</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		            	<!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">Who do not know how to pursue an sed pleasure rationally encounter that are extremely win painful nor again is there anyone who loves or pursues or desires obtain pain itself circumstances.</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE8.jpg" alt=""></div>
+		                                <div class="author">William Border</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		                <!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">Who do not know how to pursue an sed pleasure rationally encounter that are extremely win painful nor again is there anyone who loves or pursues or desires obtain pain itself circumstances.</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE7.jpg" alt=""></div>
+		                                <div class="author">Jessy Federar</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		                <!--Slide Item-->
+		                <div class="slide-item">
+		                	<div class="inner-box">
+		                        <div class="content">
+		                        	<div class="text-bg">
+			                            <div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+			                        	<div class="text">Who do not know how to pursue an sed pleasure rationally encounter that are extremely win painful nor again is there anyone who loves or pursues or desires obtain pain itself circumstances.</div>                 		
+		                        	</div>
+		                            <div class="info clearfix">
+		                            	<div class="author-thumb"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/home/TPDNE9.jpg" alt=""></div>
+		                                <div class="author">Mark Antony</div>
+		                                <div class="author-title">Google Review</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                </div>
+		            	
+		            </div>
+		        </div>
+		    </section>
+
+			<!-- Partner Logo********************** -->
+
+	        <div class="partners wow fadeInUp">
+	        	<div class="container">
+	        		<div id="partner_logo" class="owl-carousel owl-theme">
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201UHA.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/ChaTraMue2_a1f8934c-a3cc-46da-a2be-58cc9f716369_4960x.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201gomuc.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201koikeya.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201UHA.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/ChaTraMue2_a1f8934c-a3cc-46da-a2be-58cc9f716369_4960x.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201gomuc.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201koikeya.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201UHA.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/ChaTraMue2_a1f8934c-a3cc-46da-a2be-58cc9f716369_4960x.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201gomuc.png" alt="logo"></div>
+						<div class="item"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/partner/Artboard%201koikeya.png" alt="logo"></div>
+
+					</div> <!-- End .partner_logo -->
+				</div>
+			</div>
+
+
+
+
+
+			<section class="call-out">
+			    <div class="container">
+			        <div class="float_left">
+			            <h2>Subscribe to our Newsletter</h2>
+			            <p>And get our latest promotions (no spam)</p>
+			        </div>
+			        <div class="float_right">
+			        	<div class="contact-box">
+
+							<form method="post" action="https://formspree.io/f/mbljybjj" class="contact-form" novalidate="novalidate">
+										                            
+		                        <div class="row clearfix">
+		                            <div class="form-group">
+		                                <input type="text" name="username" value="" placeholder="Your Name*"><i class="fa fa-user" aria-hidden="true"></i>
+
+		                            </div>
+
+		                            <div class="form-group">
+		                                <input type="email" name="username" value="" placeholder="Email Address*"><i class="fa fa-envelope" aria-hidden="true"></i>
+		                            </div>
+		                           
+
+		                            <div class="form-group">
+		                                <button type="submit" name="submit" class="btn-style-one center">Submit now</button>
+		                            </div>
+		                        </div>
+		                    </form>
+		                </div>
+			        </div>
+			    </div>
+			</section>
+
+			<!-- Footer************************* -->
+			<footer>
+				<div class="main_footer">
+					<div class="container">
+						<div class="row">
+							<!-- Logo Column -->
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 footer_logo">
+								<a href="index.html"><img src="https://cdn.jsdelivr.net/gh/ReputableImage/talardthai/images/logo/Talard%20Thai%20Asian%20Market%20Logo%20no%20background.png" alt="Logo"></a>
+								<p>Denouncing pleasures and praising pain was born and I will give you a complete account of the system.</p>
+								<p>Expound that actual teachings the great explorer of the truth, the master-builder of human happiness no one rejects, likes, or avoids pleasure itself rationally.</p>
+								<a href="#" class="tran3s">SHOP ONLINE</a>
+							</div> <!-- End of .footer_logo -->
+			
+							<!-- Navigation Column -->
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 footer_navigation">
+								<h5>Navigation</h5>
+								<ul class="list navigation">
+									<li><a href="index.html">Home</a></li>
+									<li><a href="shop.html">Shop Online</a></li>
+									<li><a href="about.html">About Us</a></li>
+									<li><a href="departments.html">Departments</a></li>
+									<li><a href="specials.html">Our Menu</a></li>
+									<li><a href="contact.html">Contact Us</a></li>
+								</ul>
+							</div> <!-- End of .footer_navigation -->
+			
+							<!-- Categories Column -->
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 footer_subscribe">
+								<h5>Categories</h5>
+								<ul class="list catagories">
+									<li><a href="#"><i class="fa fa-angle-right"></i> Arable & Pastoral Farmers</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i> Become a Member</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i> Shop Our Products</a></li>
+								</ul>
+								<div class="widget popular-tags">
+									<div class="sidebar-title"><h5>Tags</h5></div>
+									<a href="#">Fruits</a>
+									<a href="#">Cosmetics</a>
+									<a href="#">Farmers</a>
+									<a href="#">Healthy</a>
+									<a href="#">Catering</a>                     
+									<a href="#">Post Format</a>                                         
+								</div>
+							</div> <!-- End of .footer_subscribe -->
+			
+							<!-- Contact Column -->
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 footer_contact">
+								<h5>Get In Touch</h5>
+								<ul class="list catagories">
+									<li><a href="#"><i class="fa fa-envelope"></i> talardthaichicago@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i> (773) 942 6566</a></li>
+									<li><a href="#"><i class="fa fa-home"></i> 3553 N Broadway, Chicago, IL 60640</a></li>
+								</ul>
+								<h5>Business Hours</h5>
+								<div class="list Business">
+									<p>Monday - Sunday: 10am to 8pm</p>
+								</div>
+							</div> <!-- End of .footer_contact -->
+						</div>
+					</div>
+				</div> <!-- End of .main_footer -->
+			
+				<div class="bottom_footer clear_fix">
+					<div class="container">
+						<h6 class="pull-left">Copyright © 2024 All Rights Reserved. Designed by <a href="http://reputableimage.com" target="_blank">Reputable Image</a></h6>
+						<ul class="social_icon pull-right">
+							<li><a href="" class="tran3s"><i class="fa fa-cc-visa" aria-hidden="true"></i></a></li>
+							<li><a href="" class="tran3s"><i class="fa fa-cc-mastercard" aria-hidden="true"></i></a></li>
+							<li><a href="" class="tran3s"><i class="fa fa-paypal" aria-hidden="true"></i></a></li>
+							<li><a href="" class="tran3s"><i class="fa fa-credit-card-alt" aria-hidden="true"></i></a></li>
+							<li><a href="" class="tran3s"><i class="fa fa-cc-discover" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</footer>
+			
+
+
+			<!-- Scroll Top Button -->
+			<button class="scroll-top tran3s color2_bg">
+				<span class="fa fa-angle-up"></span>
+			</button>
+			<!-- pre loader  -->
+		 	<div id="loader-wrapper">
+				<div id="loader"></div>
+			</div>
+	
+
+
+		</div> <!-- End of .main_page -->
