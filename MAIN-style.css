@@ -1529,7 +1529,8 @@ footer .main_footer .footer_logo {
 }
 footer .main_footer .footer_logo p {
   color: #FFFFFF;
-  margin:13px 0 22px 0;
+  margin:7px 0 22px 0;
+  font-size: 13px;
 }
 footer .main_footer .footer_logo a.tran3s:hover {
   background: #fff;
